@@ -1,4 +1,4 @@
-# local-GPT
+# local-GPT using LLama 2
 
 **local-GPT** is a simple graphical user interface (GUI) application built using Tkinter and LlamaCpp for interacting with a pretrained language model.
 
